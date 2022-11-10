@@ -8,7 +8,7 @@
 ![image4](https://user-images.githubusercontent.com/62573334/201061029-2d2bd8b1-16ce-435d-a700-3f6a60e14da5.jpg)
 <br/> 
 # Augmentation Before Predict and Loss Function <br/> 
-![Screenshot_4](https://user-images.githubusercontent.com/62573334/201060413-7ba307c6-1e73-4307-bd28-7cf4eeb4d588.png)
+![Screenshot_4](https://user-images.githubusercontent.com/62573334/201060413-7ba307c6-1e73-4307-bd28-7cf4eeb4d588.png) <br/>
 ![Screenshot_6](https://user-images.githubusercontent.com/62573334/201060497-98b622e2-7b98-4a15-8084-077140ad1c81.png)
 
 ![Not_Augmentation](https://user-images.githubusercontent.com/62573334/201060103-62299e3f-c0bb-489a-bc81-8798abedcf79.png)
