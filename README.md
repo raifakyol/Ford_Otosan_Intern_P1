@@ -3,11 +3,9 @@
 <br/> 
 # images <br/>
 ![image3](https://user-images.githubusercontent.com/62573334/201061011-0ff9cfb7-af49-4fc7-b87c-387cc232d0ca.png)
-
 <br/> 
 # masked images <br/>
 ![image4](https://user-images.githubusercontent.com/62573334/201061029-2d2bd8b1-16ce-435d-a700-3f6a60e14da5.jpg)
-
 <br/> 
 # Augmentation Before Predict and Loss Function <br/> 
 ![Screenshot_4](https://user-images.githubusercontent.com/62573334/201060413-7ba307c6-1e73-4307-bd28-7cf4eeb4d588.png)
