@@ -2,12 +2,16 @@
 <br/>
 <br/> 
 # images <br/>
+![image3](https://user-images.githubusercontent.com/62573334/201062701-d866475c-2d57-4380-8c64-52b1e3309cf3.png)
 
 <br/> 
 # masked images <br/>
+![image4](https://user-images.githubusercontent.com/62573334/201062717-f4a87e29-ae50-4488-a718-1fb3af010b97.jpg)
 
 <br/> 
 # Before Augmentation Predict and Loss Function <br/> 
+![Screenshot_4](https://user-images.githubusercontent.com/62573334/201062806-cce75e7f-e7d4-417e-8b9d-f62bc3618e5c.png)
+![Screenshot_6](https://user-images.githubusercontent.com/62573334/201062833-669f9235-c703-4bb9-8635-7f3b4a83e0f6.png)
 
 ![Not_Augmentation](https://user-images.githubusercontent.com/62573334/201060103-62299e3f-c0bb-489a-bc81-8798abedcf79.png)
 <br/> 
@@ -25,5 +29,6 @@
 
 
 # IMAGES & MASKED_IMAGES & PREDICT 
-![image1](https://user-images.githubusercontent.com/62573334/201059230-c06dc347-013c-4e91-945c-38d094e6f57c.png)
-![image2](https://user-images.githubusercontent.com/62573334/201059453-a786c80c-d24a-435c-a151-a96ed7836d63.png)
+
+![image1](https://user-images.githubusercontent.com/62573334/201062679-55fd1345-0784-4081-9979-0c4ae12be584.png)
+![image2](https://user-images.githubusercontent.com/62573334/201062687-a109b43a-0920-49c4-a17c-2df2abba2115.png)
