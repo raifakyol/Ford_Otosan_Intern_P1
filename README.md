@@ -2,12 +2,10 @@
 <br/>
 <br/> 
 # images <br/>
-![Screenshot_9](https://user-images.githubusercontent.com/62573334/201063459-2f9be1af-f4dd-4718-8c14-0dc338050203.png)
 
 
 <br/> 
 # masked images <br/>
-![Screenshot_8](https://user-images.githubusercontent.com/62573334/201063458-378d6ca3-cf8f-4b66-bd50-acfafb4be062.png)
 
 
 <br/> 
