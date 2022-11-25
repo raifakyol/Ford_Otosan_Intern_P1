@@ -1,13 +1,9 @@
 # Freespace Segmentation Convolutional Neural Network
 <br/>
 <br/> 
-# images <br/>
-![Screenshot_1](https://user-images.githubusercontent.com/62573334/204052286-c7424e67-ef77-4f9d-bd02-0a1fd0e81c28.png)
+# Images and Masked Images <br/>
+![Screenshot_1](https://user-images.githubusercontent.com/62573334/204052581-3d7c8c8b-349e-439a-8a2d-3d383a2b1364.png)
 
-
-<br/> 
-# masked images <br/>
-![Screenshot_2](https://user-images.githubusercontent.com/62573334/204052295-998cd2ab-e0af-47f2-af4a-aed0972bdb2b.png)
 
 
 <br/> 
