@@ -1,6 +1,14 @@
 # Freespace Segmentation Convolutional Neural Network
 <br/>
 <br/> 
+Drivable area detection in images with semantic segmentation.
+
+The project was developed with technologies such as Python and Opencv.
+
+In the training, 8000 image data collected from the highway by were used. Examples from the dataset;
+
+<br/>
+
 
 # IMAGES 
 <br/>
