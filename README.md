@@ -12,13 +12,14 @@
 <br/> 
 
 
-![Not_Augmentation](https://user-images.githubusercontent.com/62573334/201060103-62299e3f-c0bb-489a-bc81-8798abedcf79.png)
+[alt text](http://user-images.githubusercontent.com/62573334/201060103-62299e3f-c0bb-489a-bc81-8798abedcf79.png)
 <br/> 
 
 # Augmentation
 <br/> 
-![Screenshot_1](https://user-images.githubusercontent.com/62573334/201060188-c6da11a1-1b4b-447e-83b0-76f3b3f14000.png)
-![Screenshot_5](https://user-images.githubusercontent.com/62573334/201060209-df83e125-5839-46c7-93aa-afd2b76fa269.png)
+[alt text](http://user-images.githubusercontent.com/62573334/201060188-c6da11a1-1b4b-447e-83b0-76f3b3f14000.png)
+[alt text](http://user-images.githubusercontent.com/62573334/201060209-df83e125-5839-46c7-93aa-afd2b76fa269.png)
+
 <br/> 
 # After Augmentation Predict and Loss Function 
 <br/> 
