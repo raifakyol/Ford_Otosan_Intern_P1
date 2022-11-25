@@ -5,5 +5,6 @@
 
 # IMAGES & MASKED_IMAGES & PREDICT 
 <br/>
-![image1](https://user-images.githubusercontent.com/62573334/201062679-55fd1345-0784-4081-9979-0c4ae12be584.png)
-![image2](https://user-images.githubusercontent.com/62573334/201062687-a109b43a-0920-49c4-a17c-2df2abba2115.png)
+![image1](https://user-images.githubusercontent.com/62573334/204052888-32175468-b134-4718-a3d3-dc59c8282228.png)
+<br/>
+![image2](https://user-images.githubusercontent.com/62573334/204052894-68919cb7-fe01-4eae-8e88-ab2474bfa683.png)
