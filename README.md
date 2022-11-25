@@ -2,8 +2,8 @@
 <br/>
 <br/> 
 # Images and Masked Images <br/>
-![Screenshot_1](https://user-images.githubusercontent.com/62573334/204052581-3d7c8c8b-349e-439a-8a2d-3d383a2b1364.png)
 
+![alt text](http://user-images.githubusercontent.com/62573334/204052581-3d7c8c8b-349e-439a-8a2d-3d383a2b1364.png)
 
 
 <br/> 
