@@ -1,6 +1,7 @@
 # Freespace Segmentation Convolutional Neural Network
 <br/>
 <br/> 
+
 # IMAGES 
 <br/>
 <img src="https://github.com/raifakyol/Ford_Otosan_Intern_P1/blob/main/Screenshot_9.png" width="auto">
